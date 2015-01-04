@@ -1,0 +1,18 @@
+{
+  "name": "saq-scraper",
+  "version": "0.0.1",
+  "description": "Scrape all the whiskeys from the SAQ",
+  "main": "server.js",
+  "author": "rothlis",
+  "dependencies": {
+    "cheerio": "latest",
+    "debug": "^2.1.1",
+    "express": "latest",
+    "mongodb": "^1.4.26",
+    "monk": "^0.9.1",
+    "q": "^1.1.2",
+    "qs": "^2.3.3",
+    "request": "latest",
+    "underscore": "^1.7.0"
+  }
+}
